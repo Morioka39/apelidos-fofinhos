@@ -7,7 +7,7 @@
 }
 
 #fundo{
-  background-image: url(/src/imagens/fundo.png);
+   background: linear-gradient(180deg, rgba(245, 164, 164, 0.452), rgba(248, 21, 21, 0.685));
 }
 
 .title{
